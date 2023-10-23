@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.w-full .h-screen .pic {
+  box-shadow: 0px 0px 25px 0px #aaaaaa;
+}
